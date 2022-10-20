@@ -1,4 +1,4 @@
-<img align="right" alt="moon-eyes" height="200" style="border-radius:50px;" src="https://media.giphy.com/media/6M6tLNTzqsImp41mGS/giphy.gif">
+<img align="right" alt="moon-eyes" height="160" style="border-radius:50px;" src="https://media.giphy.com/media/6M6tLNTzqsImp41mGS/giphy.gif">
 
 ### Oiii! Sou Stefany souza ✨
 
@@ -6,14 +6,12 @@
 - 🎓 Formada em Desenvolvimento Web pela [Generation](https://brazil.generation.org/)
 - 🌱 Atualmente estou me qualificando pelo [Senai](https://portalead.sp.senai.br/) em Programador Back-end
 - 😄 Pronomes: Ela/Dela
-
-
-
+<br><br><br>
 
 <div align="center">
   <a href="https://github.com/stefanyrsouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stefanyrsouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanyrsouza&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=stefanyrsouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanyrsouza&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ##
